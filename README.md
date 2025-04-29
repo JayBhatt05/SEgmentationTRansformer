@@ -8,7 +8,8 @@
 <br>
 <br>
 <br>
-**References**<br>
+**References**
+<br>
 [1] Zheng, Sixiao, et al. "Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2021.
 <br>
 [2] Cordts, Marius, et al. "The cityscapes dataset for semantic urban scene understanding." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
